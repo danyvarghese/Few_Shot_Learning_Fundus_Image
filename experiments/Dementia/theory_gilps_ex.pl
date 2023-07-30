@@ -1,0 +1,10 @@
+theory_clause([target(A),torta(A,B),gteq(B,15837.677088)],_657830).
+theory_clause([target(A),torta(A,B),gteq(B,18477.289936)],_657867).
+theory_clause([target(A),tortv(A,B),gteq(B,23756.515632)],_657904).
+theory_clause([target(A),torta(A,B),gteq(B,34314.967024)],_657941).
+theory_clause([target(A),torta(A,B),gteq(B,50152.644112)],_657978).
+theory_clause([target(A),bstdv(A,B),tortv(A,C),gteq(C,6599.03212)],_658020).
+theory_clause([target(A),bstda(A,B),torta(A,C),gteq(C,13198.06424)],_658062).
+theory_clause([target(A),avr(A,B),tortv(A,C),gteq(C,15837.677088)],_658104).
+theory_clause([target(A),avr(A,B),torta(A,C),gteq(C,17157.483512)],_658146).
+theory_clause([target(A),bstda(A,B),torta(A,C),gteq(C,32995.1606)],_658188).
